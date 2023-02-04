@@ -1,6 +1,6 @@
 ---
 title: "Events & News"
 permalink: /news/
-layout: tags
+layout: posts
 author_profile: false
 ---
