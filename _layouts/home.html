@@ -2,66 +2,48 @@
 layout: default
 ---
 
-<!-- <div id="homeid" class="col-sm-7 col-xs-7">
-	{{ content }}
-  </div>
-  <div id="newsid" class="col-sm-5 col-xs-4" >
-	{% include sidebar.html %}
-  </div> -->
-
-
 <style>
   .initial-content{
+    margin: 0 auto;
+    width: 85%;
+    padding: 10px;
+    }
+  .archive__subtitle{
       margin: auto;
       width: 80%;
       padding: 10px;
   }
-  .partner{
-      margin: auto;
+  .entries-list{
+      margin: 0 auto;
       width: 80%;
-      padding: 10px;
   }
+
 </style>
 
 
-<div class="initial-content"> 
-  <img src=" /../assets/images/horizon.png" width="40%"/>
-</div>
+<div class="initial-content">
+  {{ content }}
+</div> 
 
-<h1 class="archive__subtitle">
-  {{ "Partners" }}
-</h1>
-
-<div class="initial-content"> 
-    <img src=" /../assets/images/partners.png" width="90%"/>
-</div>
-
-<!-- <div class="partner"> 
-  {{ 
-
-    <center>
-      <img src=" /../assets/images/partner.png" width="100%"/><br/>
-      Cooperative and intelligent UAVs for emergency response applications. <br/>
-      </center>
-
-   }}
-</div> -->
 
 <!-- <h3 class="archive__subtitle">
-  {{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}
-</h3>
+  {{ site.data.ui-text[site.locale].recent_posts | default: "Recent News" }}
+</h3> -->
 
-{% if paginator %}
+<!-- <div class="posts">
+  {% if paginator %}
   {% assign posts = paginator.posts %}
-{% else %}
+  {% else %}
   {% assign posts = site.posts %}
 {% endif %}
+</div> -->
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
+
+<!-- {% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-list">
   {% for post in posts %}
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
-</div> -->
+</div>  -->
 
 <!-- {% include paginator.html %} -->

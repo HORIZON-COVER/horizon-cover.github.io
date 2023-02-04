@@ -26,3 +26,7 @@ author_profile: false
 * The University of Alberta
 * Ranplan Wireless Nework Design LTD
 * The University of Sydney
+
+<center>
+<img src=" /../assets/images/partners.png" width="70%"/>
+</center>
