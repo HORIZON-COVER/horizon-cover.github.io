@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Cooperative & Intelligent UAV Project
+title: European COVER Project
 # subtitle: European Horizon Project, 2021-Present
 #email:
 description: The website for  Cooperative & Intelligent UAV Project 
@@ -123,7 +123,7 @@ tag_archive:
 
 sidebar:
   - title: "Title"
-    image: "/assets/images/your-image.jpg"
+    image: "/assets/images/horizon.png"
     image_alt: "image"
     text: "Some text here."
   - title: "Another Title"

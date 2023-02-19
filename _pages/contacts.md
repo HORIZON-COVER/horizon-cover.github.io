@@ -19,13 +19,17 @@ author_profile: false
   * E-mail: z.sun@tue.nl  
 
 
-## Cooperation Partners
-* Eindhoven Uuiversity of Technology
+## Consortium
+* Eindhoven University of Technology
+* Georg-August-University Goettingen
+* KTH Royal Institute of Technology
+* Brunel University London
 * University of Essex
-* University of Northumaria at Newcastle
-* The University of Alberta
+* Central Supelec
 * Ranplan Wireless Nework Design LTD
+* University of Northumaria at Newcastle
 * The University of Sydney
+* The University of Alberta
 
 <center>
 <img src=" /../assets/images/partners.png" width="70%"/>
