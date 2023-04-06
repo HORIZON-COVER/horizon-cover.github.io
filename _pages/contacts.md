@@ -24,9 +24,9 @@ author_profile: false
 
 ## Consortium
 * Eindhoven University of Technology
+* Brunel University London
 * Georg-August-University Goettingen
 * KTH Royal Institute of Technology
-* Brunel University London
 * University of Essex
 * Central Supelec
 * Ranplan Wireless Nework Design LTD
