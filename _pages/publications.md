@@ -19,3 +19,4 @@ author_profile: false
 
 
 ### Conference Papers
+[1] Qi, S., Zhang, Z., Haesaert, S. and Sun, Z., 2023. Automated Formation Control Synthesis from Temporal Logic Specifications. arXiv preprint arXiv:2304.00275. 
