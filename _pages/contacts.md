@@ -24,15 +24,15 @@ author_profile: false
 
 ## Consortium
 * Eindhoven University of Technology
-* Brunel University London
 * Georg-August-University Goettingen
 * KTH Royal Institute of Technology
+* CentraleSupelec - Université Paris-Saclay
+* Brunel University London
 * University of Essex
-* Central Supelec
 * Ranplan Wireless Nework Design LTD
 * University of Northumaria at Newcastle
-* The University of Sydney
-* The University of Alberta
+* The University of Sydney (associate partner)
+* The University of Alberta (associate partner)
 
 <center>
 <img src=" /../assets/images/partners.png" width="70%"/>
