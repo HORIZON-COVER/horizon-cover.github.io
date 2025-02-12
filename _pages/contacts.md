@@ -15,8 +15,8 @@ author_profile: false
 </style>
 
 ## Contacts
-* [Zhiyong Sun](https://www.tue.nl/en/research/researchers/zhiyong-sun/) Department of Electrical Engineering, Eindhoven Uuiversity of Technology, The Netherlands.
-  * E-mail: z.sun@tue.nl  
+* [Sofie Haesaert](https://www.tue.nl/en/research/researchers/sofie-haesaert/) Department of Electrical Engineering, Eindhoven University of Technology, The Netherlands.
+  * E-mail: s.haesaert@tue.nl  
 
 * [Kezhi Wang](https://www.kezhiwang.net/) College of Engineering, Design and Physical Sciences, Brunel University London, UK.
   * E-mail: kezhi.wang@brunel.ac.uk  
