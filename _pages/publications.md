@@ -87,4 +87,23 @@ author_profile: false
    *Beyond Diagonal Reconfigurable Intelligent Surfaces with Mutual Coupling: Modeling and Optimization*  
    *IEEE Communications Letters*, to appear  
 
+19. **Z. Peng, Z. Zhang, C. Pan, M. Di Renzo, O. A. Dobre, J. Wang**  
+   *Beamforming Optimization for Active RIS-Aided Multiuser Communications With Hardware Impairments*  
+   *IEEE Transactions on Wireless Communications*, to appear  
+
+20. **R. Singh, A. Kaushik, W. Shin, G. C. Alexandropoulos, M. Toka, M. Di Renzo**  
+   *Indexed Multiple Access with Reconfigurable Intelligent Surfaces: The Reflection Tuning Potential*  
+   *IEEE Communications Magazine*, to appear  
+
+21. **A. Basu, S. P. Dash, A. Kaushik, D. Ghose, M. Di Renzo, Y. C. Eldar**  
+   *Performance Analysis of RIS-Aided Index Modulation with Greedy Detection over Rician Fading Channels*  
+   *IEEE Transactions on Wireless Communications*, to appear  
+
+22. **X. Yao, J. An, L. Gan, M. Di Renzo, C. Yuen**  
+   *Channel Estimation for Stacked Intelligent Metasurface-Assisted Wireless Networks*  
+   *IEEE Wireless Communications Letters*, to appear  
+
+23. **M. Di Renzo, M. D. Migliore**  
+   *Electromagnetic Signal and Information Theory*  
+   *IEEE BITS The Information Theory Magazine*, to appear  
 
